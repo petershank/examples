@@ -2,7 +2,7 @@
 
 // see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/toString
 //for fun and profit
-//all the time
+//all the time is great and committed
 
 class MyClass {
   constructor(
